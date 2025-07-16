@@ -1,13 +1,20 @@
 # 🎓 **Tuition Handler**  
+
 [![Java](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)  
 [![MySQL](https://img.shields.io/badge/Database-MySQL-blue)](https://www.mysql.com/)  
 ![Status](https://img.shields.io/badge/Status-Completed-success)  
 ![IDE](https://img.shields.io/badge/Editor-VS%20Code%20%7C%20Notepad-lightgrey)  
 ![GUI](https://img.shields.io/badge/GUI-Java%20Swing-orange)  
 ![Email](https://img.shields.io/badge/Email-JavaMail%20API-green)  
+![License](https://img.shields.io/badge/License-MIT-blue)  
+![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen)  
 
-A **Java-based desktop application** for managing tuition classes efficiently.  
-This application helps administrators maintain **student records, batches, courses**, and automatically **generates payment receipts with email notifications**.  
+**Tuition Handler** is a **Java-based desktop application** designed to simplify **tuition class management**.  
+It helps administrators efficiently manage **student records, batches, and courses**, while automatically  
+**generating payment receipts and sending them via email**.
+
+Built with **Java Swing** for the GUI and **MySQL** for database management, it ensures smooth performance  
+with **multi-threaded background operations** for receipt generation and email notifications.
 
 ---
 
@@ -32,7 +39,7 @@ java -classpath ".;D:\realsoft;D:\realsoft\utility\lib\jdatepicker-1.3.4.jar;D:\
 * **Password:** `admin`  
 
 ---
-
+<!--
 ## ✨ **Features**
 
 ✅ **Student Management** – Add, update, and view student details  
@@ -43,16 +50,38 @@ java -classpath ".;D:\realsoft;D:\realsoft\utility\lib\jdatepicker-1.3.4.jar;D:\
 ✅ **Multi-threading** – Background email/receipt operations without UI freezing  
 
 ---
+ -->
+## ✨ **Features**
 
+- 👨‍🎓 **Student Management**  
+  Add, update, and view student details with ease.
+
+- 📚 **Batch, Course & Trade Handling**  
+  Organize students by batches, courses, and trades efficiently.
+
+- 🧾 **Automated Receipt Generation & Emailing**  
+  Automatically generate payment receipts and send them via email.
+
+- 🗂 **City & College Database**  
+  Maintain structured records city-wise and college-wise.
+
+- 🔐 **Secure Admin Login**  
+  Access restricted to authorized users only.
+
+- ⚙️ **Multi-threading Support**  
+  Performs background tasks like email sending without freezing the UI.
+
+---
 ## 🛠 **Tech Stack**
 
-| **Category**  | **Technology**                                            |
-| ------------- | --------------------------------------------------------- |
-| **Language**  | Java (Core + Swing for GUI)                               |
-| **Database**  | MySQL (`realsoft` schema)                                 |
-| **Libraries** | JavaMail API, MySQL Connector, JDatePicker                |
-| **Tools**     | VS Code, Notepad                                          |
-| **Threads**   | Background operations (email sending, receipt generation) |
+| **Category**  | **Technology**                                  |
+| ------------- | ------------------------------------------------|
+| **Language**  | Java (Core + Swing for GUI)                      |
+| **Database**  | MySQL (`realsoft` schema)                        |
+| **Libraries** | JavaMail API, MySQL Connector, JDatePicker      |
+| **Tools**     | VS Code, Notepad                                 |
+| **Threads**   | Background threads for asynchronous operations  |
+| **License**   | MIT License                                      |
 
 ---
 
