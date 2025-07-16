@@ -61,7 +61,7 @@ java -classpath ".;D:\realsoft;D:\realsoft\utility\lib\jdatepicker-1.3.4.jar;D:\
 ```
 Tuition_Handler/
 │
-├── application/       # Main entry point (LandingPage, login functionality)
+├── application/       # Main entry point 
 ├── batch/             # Batch operations
 ├── city/              # City management
 ├── college/           # College records
@@ -74,7 +74,7 @@ Tuition_Handler/
 ├── student/           # Student CRUD operations
 ├── threads/           # Background threads
 ├── trade/             # Trade-related records
-├── utility/           # Database connection & helper functions (DB.java)
+├── utility/           # Database connection & helper functions 
 └── README.md          # Project documentation
 ```
 
