@@ -7,7 +7,6 @@
 ![GUI](https://img.shields.io/badge/GUI-Java%20Swing-orange)  
 ![Email](https://img.shields.io/badge/Email-JavaMail%20API-green)  
 ![License](https://img.shields.io/badge/License-MIT-blue)  
-![PRs](https://img.shields.io/badge/PRs-Welcome-brightgreen)  
 
 **Tuition Handler** is a **Java-based desktop application** designed to simplify **tuition class management**.  
 It helps administrators efficiently manage **student records, batches, and courses**, while automatically  
@@ -246,7 +245,7 @@ java -classpath ".;D:\realsoft;D:\realsoft\utility\lib\jdatepicker-1.3.4.jar;D:\
 * SMS notifications  
 
 ---
-
+<!--
 ## 👩‍💻 **Author**
 
 **Prajakta Darekar**  
@@ -254,3 +253,4 @@ java -classpath ".;D:\realsoft;D:\realsoft\utility\lib\jdatepicker-1.3.4.jar;D:\
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/prajaktadarekar)  
 
 ---
+-->
