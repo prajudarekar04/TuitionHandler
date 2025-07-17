@@ -219,7 +219,7 @@ CREATE TABLE Student(
 ### ✅ **2. Clone the Repository**
 
 ```bash
-git clone https://github.com/YourUsername/Tuition_Handler.git
+git clone https://github.com/prajudarekar04/Tuition_Handler.git
 cd Tuition_Handler
 ```
 
