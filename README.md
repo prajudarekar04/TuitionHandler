@@ -1,11 +1,11 @@
 # 🎓 **Tuition Handler**  
 
-[![Java](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)  
+[![Java](https://img.shields.io/badge/Java-8%2B-blue)](https://www.java.com/)
 [![MySQL](https://img.shields.io/badge/Database-MySQL-blue)](https://www.mysql.com/)  
-![Status](https://img.shields.io/badge/Status-Completed-success)  
+![Status](https://img.shields.io/badge/Status-Completed-success)
 ![IDE](https://img.shields.io/badge/Editor-VS%20Code%20%7C%20Notepad-lightgrey)  
-![GUI](https://img.shields.io/badge/GUI-Java%20Swing-orange)  
-![Email](https://img.shields.io/badge/Email-JavaMail%20API-green)  
+![GUI](https://img.shields.io/badge/GUI-Java%20Swing-orange)
+![Email](https://img.shields.io/badge/Email-JavaMail%20API-green)
 ![License](https://img.shields.io/badge/License-MIT-blue)  
 
 **Tuition Handler** is a **Java-based desktop application** designed to simplify **tuition class management**.  
